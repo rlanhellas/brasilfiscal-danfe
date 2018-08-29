@@ -92,4 +92,4 @@ Se você preferir também poderá acessar nossa API via Web através do endereç
 Através deste endereço você poderá realizar a chamar ao DANFE-API sem precisar codificar nada.
 
 # Duvidas ? 
-Faça parte do nosso canal no slack: brasilfiscal.slack.com. Lá você terá o canal "danfe-api".
+Faça parte do nosso canal no slack: brasilfiscal.slack.com. 
