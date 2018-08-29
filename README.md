@@ -90,3 +90,6 @@ Você pode executar um exemplo completo e real através do cURL deste link: http
 **- Usando Swagger**
 Se você preferir também poderá acessar nossa API via Web através do endereço: http://brasilfiscal.querobuy.com.br:7000/brasilfiscal-danfe/swagger-ui.html. 
 Através deste endereço você poderá realizar a chamar ao DANFE-API sem precisar codificar nada.
+
+#Duvidas ? 
+Faça parte do nosso canal no slack: brasilfiscal.slack.com. Lá você terá o canal "danfe-api".
