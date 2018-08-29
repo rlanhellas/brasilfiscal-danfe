@@ -48,7 +48,7 @@ Você pode executar um exemplo completo e real através do cURL deste link: http
       -d '{
       "urlLogmarca": "https://http2.mlstatic.com/logomarca-logotipo-logo-criar-logo-marca-profissional-D_NQ_NP_21440-MLB20211035406_122014-F.jpg",
       "xml": "Conteudo do seu XML em BASE64"
-    }'
+    }' >> teste.pdf
 
  **- Usando PHP** 
  
