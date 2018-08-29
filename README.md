@@ -35,8 +35,10 @@ Para começar a emitir sua DANFE é muito simples, você só precisa fazer uma c
 Note que a resposta sempre será um application/octet-stream, isso nada mais é do que um binário que você poderá converter conforme sua aplicação precisar. 
 
 ## 5) Exemplo prático
+
+Você pode executar um exemplo completo e real através do cURL deste link: https://gist.github.com/rlanhellas/891b71f7c057d8b56ab9de9e6902e329. Este possui uma nota fiscal válida que gerará um DANFE válido.
     
- **- Usando CURL**
+ **- Usando cURL**
   
       curl -X POST \
       http://brasilfiscal.querobuy.com.br:7000/brasilfiscal-danfe/v1/ \
